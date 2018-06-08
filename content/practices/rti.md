@@ -13,6 +13,7 @@ It uses the (Ready To Innovate tool)[http://www.ready-to-innovate.com],which ass
 
 ## Why use  it?
 
+It's a simple way of assessing the current state of a whole organisation (or a part of it) and its readiness and capabilities for digital transformation and adopting new technology. 
 
 ## Related Practices
 
