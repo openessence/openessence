@@ -2,6 +2,8 @@
 title: "Pathfinder"
 date: 2018-06-07T12:39:01+01:00
 draft: false
+categories: ["portfolio"]
+tags: ["application","migration"]
 ---
 
 ## What is Pathfinder?

@@ -2,3 +2,6 @@ baseURL = "https://openessence.github.io/"
 languageCode = "en-us"
 title = "OpenEssence"
 theme = "beautifulhugo"
+[taxonomies]
+   tag = "tags"
+   category = "categories"
