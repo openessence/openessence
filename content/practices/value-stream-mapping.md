@@ -1,10 +1,10 @@
 ---
-title: "TEMPLATE"
+title: "Value Stream Mapping"
 date: 2018-06-07T12:39:01+01:00
 draft: false
 ---
 
-## What is TEMPLATE?
+## What is Value Stream Mapping?
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci . Vivamus sed laoreet nisl.
 

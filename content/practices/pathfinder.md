@@ -1,10 +1,10 @@
 ---
-title: "TEMPLATE"
+title: "Pathfinder"
 date: 2018-06-07T12:39:01+01:00
 draft: false
 ---
 
-## What is TEMPLATE?
+## What is Pathfinder?
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci . Vivamus sed laoreet nisl.
 

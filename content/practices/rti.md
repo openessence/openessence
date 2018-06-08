@@ -1,15 +1,12 @@
 ---
-title: "Ready To Innovate "
+title: "RTI"
 date: 2018-06-07T12:39:01+01:00
 draft: false
 ---
 
-## What is it?
+## What is RTI?
 
-Ready To Innovate (RTI) is a simple to run activity that quickly assesses the readiness for adoption and development of new technology, primarily for changing infrastructure and development processes to use a container platform. 
-
-It uses the (Ready To Innovate tool)[http://www.ready-to-innovate.com],which assess the current state over 5 areas and makes recommendations on future activitiy.
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci . Vivamus sed laoreet nisl.
 
 ## Why use  it?
 
