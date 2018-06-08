@@ -3,7 +3,7 @@ title: "Business Strategy"
 date: 2018-06-07T12:39:01+01:00
 draft: false
 description: Business Strategy Workshop
-categories: ["community"]
+categories: ["Community"]
 tags: ["business","strategy"]
 ---
 
