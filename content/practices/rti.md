@@ -6,21 +6,16 @@ draft: false
 
 ## What is it?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci
-. Vivamus sed laoreet nisl. Vivamus malesuada velit massa, vel maximus ex egestas eu. Duis et velit eros. Integer feugiat auctor nulla non accumsan. Sed egestas conval
-lis sodales. Ut sit amet dolor gravida, condimentum est eu, sodales nulla.
+Ready To Innovate (RTI) is a simple to run activity that quickly assesses the readiness for adoption and development of new technology, primarily for changing infrastructure and development processes to use a container platform. 
+
+It uses the (Ready To Innovate tool)[http://www.ready-to-innovate.com],which assess the current state over 5 areas and makes recommendations on future activitiy.
+
 
 ## Why use  it?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci
-. Vivamus sed laoreet nisl. Vivamus malesuada velit massa, vel maximus ex egestas eu. Duis et velit eros. Integer feugiat auctor nulla non accumsan. Sed egestas conval
-lis sodales. Ut sit amet dolor gravida, condimentum est eu, sodales nulla.
 
 ## Related Practices
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci
-. Vivamus sed laoreet nisl. Vivamus malesuada velit massa, vel maximus ex egestas eu. Duis et velit eros. Integer feugiat auctor nulla non accumsan. Sed egestas conval
-lis sodales. Ut sit amet dolor gravida, condimentum est eu, sodales nulla.
 
 ## Who do you need?
 

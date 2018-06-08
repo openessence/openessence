@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on OpenEssence</title>
+    <link>https://openessence.github.io/</link>
+    <description>Recent content in Home on OpenEssence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jun 2018 12:39:01 +0100</lastBuildDate>
+    
+	<atom:link href="https://openessence.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Template</title>
+      <link>https://openessence.github.io/practices/template/</link>
+      <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/template/</guid>
+      <description>What is it? Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci . Vivamus sed laoreet nisl. Vivamus malesuada velit massa, vel maximus ex egestas eu. Duis et velit eros. Integer feugiat auctor nulla non accumsan. Sed egestas conval lis sodales. Ut sit amet dolor gravida, condimentum est eu, sodales nulla.
+Why use it?</description>
+    </item>
+    
+  </channel>
+</rss>
