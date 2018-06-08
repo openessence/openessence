@@ -10,6 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit d
 
 ## Why use  it?
 
+It's a simple way of assessing the current state of a whole organisation (or a part of it) and its readiness and capabilities for digital transformation and adopting new technology. 
 
 ## Related Practices
 
