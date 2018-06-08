@@ -49,7 +49,8 @@ Any time
 ## External References
 
 ## SEMAT Input State
-
+![Input Status](/images/2.01_Opportunity_Identified_pcard.png)
 ## SEMAT Output State
+![Output Status](/images/2.02_Opportunity_Solution Needed_pcard.png)
 
 
