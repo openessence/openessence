@@ -8,7 +8,7 @@ tags: ["design","architecture","mapping", "workshop"]
 
 ## What is Design Thinking?
 
-(Design Thinking)[https://en.wikipedia.org/wiki/Design_thinking] was originally developed as a process for creative designers but has wider business and social applications. 
+[Design Thinking](https://en.wikipedia.org/wiki/Design_thinking) was originally developed as a process for creative designers but has wider business and social applications. 
 
 ## Why use  it?
 
@@ -49,7 +49,7 @@ During the early parts of the project when the wider aims and objectives are bei
 
 ## SEMAT Input State
 ![Stakeholders Represented][stakeholders-2]
-
+![stake 1](https://github.com/openessence/openessence.github.io/blob/master/images/1.02_Stakeholders_Represented_pcard.png)
 ## SEMAT Output State
 
 
