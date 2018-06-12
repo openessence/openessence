@@ -1,6 +1,6 @@
 ---
 title: "SEMAT References"
-date: 2018-06-07T12:39:01+01:00
+date: Tue, 12 Jun 2018 15:18:16 +0200
 draft: false
 ---
 
