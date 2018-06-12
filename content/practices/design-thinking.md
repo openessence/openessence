@@ -47,18 +47,22 @@ During the early parts of the project when the wider aims and objectives are bei
 
 ## External References
 
-The classic (design thinking shopping trolley video)[https://www.youtube.com/watch?v=W6EgoiPxNDs] is a good place to start. 
+The classic (design thinking shopping trolley video)[https://www.youtube.com/watch?v=W6EgoiPxNDs] is a good place to start.
 
 There is some excellent Stanford University Crash Course material to follow and learn how to run a design thinking session
 (Virtual design thinking course)[https://dschool.stanford.edu/resources/a-virtual-crash-course-in-design-thinking]
 
 
 ## SEMAT Input State
-![stake 1](/images/thumb_1.02_Stakeholders_Represented_pcard.png)
-![stake]:[stake2]
+![Code](/images/thumb_1.02_Stakeholders_Represented_pcard.png)
+[Link to Image][1]
 ## SEMAT Output State
-![stake 1](/images/thumb_1.03_Stakeholders_Involved_pcard.png)
+![Code](/images/thumb_1.03_Stakeholders_Involved_pcard.png)
+[Link to Image][2]
+
+[1]: /images/1.02_Stakeholders_Represented_pcard.png
+[2]: /images/1.03_Stakeholders_Involved_pcard.png
 
 
 ## SEMAT image references
-[stake2]: /images/thumb_1.03_Stakeholders_Involved_pcard.png "Stakeholder 3" 
+[Link to SEMAT Stakeholders Card](../semat-stakeholders)
