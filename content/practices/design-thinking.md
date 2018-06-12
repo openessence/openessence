@@ -55,10 +55,10 @@ There is some excellent Stanford University Crash Course material to follow and 
 
 ## SEMAT Input State
 ![stake 1](/images/thumb_1.02_Stakeholders_Represented_pcard.png)
-![stake]:[stake 2]
+![stake]:[stake2]
 ## SEMAT Output State
 ![stake 1](/images/thumb_1.03_Stakeholders_Involved_pcard.png)
 
 
 ## SEMAT image references
-[stake 2]: /images/thumb_1.03_Stakeholders_Involved_pcard.png 
+[stake2]: /images/thumb_1.03_Stakeholders_Involved_pcard.png 
