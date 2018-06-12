@@ -61,4 +61,4 @@ There is some excellent Stanford University Crash Course material to follow and 
 
 
 ## SEMAT image references
-[stake2]: /images/thumb_1.03_Stakeholders_Involved_pcard.png 
+[stake2]: /images/thumb_1.03_Stakeholders_Involved_pcard.png "Stakeholder 3" 
