@@ -1,6 +1,6 @@
 ---
 title: "SEMAT - Team"
-date: Tue, 12 Jun 2018 15:18:16 +0200
+date: 2018-05-12T16:31:41
 draft: false
 categories: ["SEMAT"]
 tags: ["semat","team"]
