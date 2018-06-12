@@ -2,7 +2,7 @@
 title: "SEMAT - Stakeholders"
 date: Tue, 12 Jun 2018 15:18:16 +0200
 draft: false
-categories: ["portfolio"]
+categories: ["SEMAT"]
 tags: ["semat","stakeholders"]
 ---
 |              | |
