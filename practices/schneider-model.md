@@ -1,6 +1,6 @@
 ---
 title: "Schneider Model"
-date: 2018-06-08T13:42:20+01:00
+date: 2018-06-12T16:57:10+02:00
 draft: true
 ---
 
