@@ -20,6 +20,7 @@ This activity helps determine which is the prevalent culture in the organisation
 
 By determining the prevalent culture, the best approach to implement change or manage development. A Control organisation will take change top-down, whilst a Collaboration culture will need a more bottom up approach.
 
+
 ## Why use  it?
 
 Whilst technical solutions can be developed in a Lab or in a detached environment, it's eventual goal is to be used in the main part of the organisation. Understanding the underlying culture within the organisation helps you understand what methods you should use to make sure that it's effective.
