@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semat on OpenEssence</title>
+    <link>https://openessence.github.io/categories/semat/</link>
+    <description>Recent content in Semat on OpenEssence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 May 2018 16:31:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://openessence.github.io/categories/semat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SEMAT - Opportunity</title>
+      <link>https://openessence.github.io/practices/semat-opportunity/</link>
+      <pubDate>Sat, 12 May 2018 16:31:41 +0000</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-opportunity/</guid>
+      <description>                      </description>
+    </item>
+    
+    <item>
+      <title>SEMAT - Requirements</title>
+      <link>https://openessence.github.io/practices/semat-requirements/</link>
+      <pubDate>Sat, 12 May 2018 16:31:41 +0000</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-requirements/</guid>
+      <description>                      </description>
+    </item>
+    
+    <item>
+      <title>SEMAT - Software System</title>
+      <link>https://openessence.github.io/practices/semat-software-system/</link>
+      <pubDate>Sat, 12 May 2018 16:31:41 +0000</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-software-system/</guid>
+      <description>                      </description>
+    </item>
+    
+    <item>
+      <title>SEMAT - Stakeholders</title>
+      <link>https://openessence.github.io/practices/semat-stakeholders/</link>
+      <pubDate>Sat, 12 May 2018 16:31:41 +0000</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-stakeholders/</guid>
+      <description>                      </description>
+    </item>
+    
+    <item>
+      <title>SEMAT - Team</title>
+      <link>https://openessence.github.io/practices/semat-team/</link>
+      <pubDate>Sat, 12 May 2018 16:31:41 +0000</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-team/</guid>
+      <description>                  </description>
+    </item>
+    
+    <item>
+      <title>SEMAT - Way of Working</title>
+      <link>https://openessence.github.io/practices/semat-way-of-working/</link>
+      <pubDate>Sat, 12 May 2018 16:31:41 +0000</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-way-of-working/</guid>
+      <description>                      </description>
+    </item>
+    
+    <item>
+      <title>SEMAT - Work</title>
+      <link>https://openessence.github.io/practices/semat-work/</link>
+      <pubDate>Sat, 12 May 2018 16:31:41 +0000</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-work/</guid>
+      <description>                      </description>
+    </item>
+    
+  </channel>
+</rss>

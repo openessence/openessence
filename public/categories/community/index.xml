@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on OpenEssence</title>
+    <link>https://openessence.github.io/categories/community/</link>
+    <description>Recent content in Community on OpenEssence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jun 2018 12:39:01 +0100</lastBuildDate>
+    
+	<atom:link href="https://openessence.github.io/categories/community/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Business Strategy</title>
+      <link>https://openessence.github.io/practices/business-strategy/</link>
+      <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/business-strategy/</guid>
+      <description>What is Business Strategy? Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci . Vivamus sed laoreet nisl.
+Why use it? Related Practices Who do you need?  Insert Details  Suggested Time  1 hour  Difficulty  Facilitator: Easy Participants: Easy  Facilitation Materials Needed  Whiteboard which will hold sticky notes.</description>
+    </item>
+    
+    <item>
+      <title>Design Thinking</title>
+      <link>https://openessence.github.io/practices/design-thinking/</link>
+      <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/design-thinking/</guid>
+      <description>What is Design Thinking? Design Thinking was originally developed as a process for creative designers but has wider business and social applications.
+Why use it? It is a positive, creative approach for the initial parts of solution development. It is a good way of getting fresh, new ideas into an existing organisation. Thinking outside of the box is one way of describing it.
+Related Practices It can be used as part of a Discovery Session or as part of a wider development project.</description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://openessence.github.io/practices/devops/</link>
+      <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/devops/</guid>
+      <description>What is DevOps? Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci . Vivamus sed laoreet nisl.
+Why use it? Related Practices Who do you need?  Insert Details  Suggested Time  1 hour  Difficulty  Facilitator: Easy Participants: Easy  Facilitation Materials Needed  Whiteboard which will hold sticky notes. Whiteboard markers Stickies (preferably a wide variety)  Process Phase Any time</description>
+    </item>
+    
+    <item>
+      <title>Domain Drive Design</title>
+      <link>https://openessence.github.io/practices/domain-drive-design/</link>
+      <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/domain-drive-design/</guid>
+      <description>What is Domain Drive Design? Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci . Vivamus sed laoreet nisl.
+Why use it? Related Practices Who do you need?  Insert Details  Suggested Time  1 hour  Difficulty  Facilitator: Easy Participants: Easy  Facilitation Materials Needed  Whiteboard which will hold sticky notes.</description>
+    </item>
+    
+  </channel>
+</rss>

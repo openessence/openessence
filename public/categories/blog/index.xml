@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on OpenEssence</title>
+    <link>https://openessence.github.io/categories/blog/</link>
+    <description>Recent content in Blog on OpenEssence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jun 2018 11:25:31 +0100</lastBuildDate>
+    
+	<atom:link href="https://openessence.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post1</title>
+      <link>https://openessence.github.io/blog/post1/</link>
+      <pubDate>Wed, 13 Jun 2018 11:25:31 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/blog/post1/</guid>
+      <description>Virtual hackathon The very first openessence.io hackathon will take place during 27/28th June 2018 with the aim of creating a range of content for the openessence.io practice library. This will be a range of activities and techniques that are used when working with open source software and projects.
+The aim of this first hackathon is to neatly capture what we do as a series of activities and techniques, so that they can then be catalogued and reviewed as the first part of the openessence.</description>
+    </item>
+    
+  </channel>
+</rss>

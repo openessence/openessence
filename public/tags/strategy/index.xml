@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strategy on OpenEssence</title>
+    <link>https://openessence.github.io/tags/strategy/</link>
+    <description>Recent content in Strategy on OpenEssence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jun 2018 12:39:01 +0100</lastBuildDate>
+    
+	<atom:link href="https://openessence.github.io/tags/strategy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Business Strategy</title>
+      <link>https://openessence.github.io/practices/business-strategy/</link>
+      <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/business-strategy/</guid>
+      <description>What is Business Strategy? Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci . Vivamus sed laoreet nisl.
+Why use it? Related Practices Who do you need?  Insert Details  Suggested Time  1 hour  Difficulty  Facilitator: Easy Participants: Easy  Facilitation Materials Needed  Whiteboard which will hold sticky notes.</description>
+    </item>
+    
+  </channel>
+</rss>
