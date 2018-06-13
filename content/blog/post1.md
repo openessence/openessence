@@ -1,7 +1,7 @@
 ---
 title: "Post1"
 date: 2018-06-13T11:25:31+01:00
-draft: true
+draft: false
 categories: ["blog"]
 tags: ["culture", "hackathon"]
 ---
