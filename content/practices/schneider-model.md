@@ -41,6 +41,8 @@ During a recent DevOps workshop, Schneider's model was used to understand where 
 
 ![](/images/schniederAbuDhabi.jpg)
 
+The result is fairly inconclusive: the company is largely on the spectrum of control - collaboration that demonstrates a command led organisation but able to transition due to the high level of collaboration.  
+
 Although the results seem slightly inconclusive, it does get customers thinking about the culture within the organisation.  
 
 
