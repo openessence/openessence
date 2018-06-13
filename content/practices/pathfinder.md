@@ -8,7 +8,9 @@ tags: ["application","migration"]
 
 ## What is Pathfinder?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci . Vivamus sed laoreet nisl.
+Pathfinder is a web based application assessment tool which is used by customers to determine which applications could be containerised, the effort involved and any impediments to the containerisation process.
+
+Pathfinder enables customers to view the order in which applications should be migrated as well as help determine the type of work involved e.g migrate, modernise etc,  and a course estimate of the effort required. 
 
 ## Why use  it?
 
@@ -45,5 +47,3 @@ Any time
 ## SEMAT Input State
 
 ## SEMAT Output State
-
-
