@@ -42,10 +42,10 @@ During a recent DevOps workshop, Schneider's model was used to understand where 
 ![](/images/schniederAbuDhabi.jpg)
 
 Total Selected Items:
- - Control: 73
- - Collaboration: 69
- - Competence: 55
- - Cultivation:  34
+* Control: 73
+* Collaboration: 69
+* Competence: 55
+* Cultivation:  34
 
 
 The result is fairly inconclusive: the company is largely on the spectrum of control - collaboration that demonstrates a command led organisation but able to transition due to the high level of collaboration.  
