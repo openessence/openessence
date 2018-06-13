@@ -36,6 +36,14 @@ Whilst technical solutions can be developed in a Lab or in a detached environmen
 - To facilitate the face-to-face session you need an experienced practioner as well as a recorder taking notes.
 - From the organisation being assessed, you need as many people as possible ideally from as many different parts of the organisation. This should be senior managers, managers as well as individual contribution.
 
+## Customer Example
+During a recent DevOps workshop, Schneider's model was used to understand where the Participants believe their organisation 'sit' within the model.  A Blank quadrant was drawn on a large white board with numbers in each quadrant without them being told what each quadrant represented.  We then when through the 20 questions and asked them to place a small post-it on the number which best represented their perception of the organisation.
+
+![](/images/schniederAbuDhabi.jpg)
+
+Although the results seem slightly inconclusive, it does get customers thinking about the culture within the organisation.  
+
+
 
 ## Suggested Time
 
@@ -44,7 +52,7 @@ Whilst technical solutions can be developed in a Lab or in a detached environmen
 
 
 ## Difficulty
-- Facilitator: Medium, you need to understand the model and read / review the reference material
+- Facilitator: Medium, you need to understand the model and read / review the reference material.  It can be like "hearding cats"!
 - Participants: No prior experience required
 
 ## Facilitation Materials Needed
