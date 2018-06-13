@@ -1,3 +1,11 @@
 [submodule "themes/beautifulhugo"]
 	path = themes/beautifulhugo
 	url = https://github.com/halogenica/beautifulhugo
+[submodule "public/public"]
+	path = public/public
+	url = git@github.com:openessence/openessence.github.io.git
+	branch = master
+[submodule "public"]
+	path = public
+	url = git@github.com:openessence/openessence.github.io.git
+	branch = master
