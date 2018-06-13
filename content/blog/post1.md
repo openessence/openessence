@@ -1,9 +1,9 @@
 ---
 title: "Post1"
-date: 2018-06-12T15:32:37+01:00
+date: 2018-06-13T11:25:31+01:00
 draft: true
 categories: ["blog"]
-tags: ["hackathon ", "blog"]
+tags: ["culture", "hackathon"]
 ---
 
 ## Virtual hackathon
