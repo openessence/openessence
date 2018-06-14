@@ -1,5 +1,5 @@
 ---
-title: "Aims Objectives"
+title: "Aims and Objectives"
 date: 2018-06-12T15:31:41+01:00
 draft: false
 categories: ["blog"]
