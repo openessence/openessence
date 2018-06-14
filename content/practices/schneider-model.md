@@ -53,7 +53,6 @@ The result is fairly inconclusive: the company is largely on the spectrum of con
 Although the results seem slightly inconclusive, it does get customers thinking about the culture within the organisation.  
 
 
-
 ## Suggested Time
 
 - 20 minutes for each online survey response.
@@ -74,7 +73,7 @@ You can do the assessment in two ways:
 There is a [Google Form](https://docs.google.com/forms/d/1TsmMdRqpfHjXFsZCOiSxC3S2SFl1Ko5WXnAIfH4a_uU/edit) with the original questions. Make a copy of this and then share with the organisation being assessed.
 
 ### Interactive Session
-- large room, free of clutter and access to large whiteboard.  
+- Large room, free of clutter and access to large whiteboard.  If possible, remove all chairs from the room.  
 - Stickies (preferably a wide variety)
 
 ## Process Phase
@@ -92,7 +91,6 @@ There are a number of good resources on the subject, including Schneider's origi
 
 [A Survey Monkey version of the survey](https://www.surveymonkey.com/r/VVNT5FB)
 
-*Red Hat Internal Only* [DevOps Report on a Customer, using the Schneider Model as part of the assessment](https://docs.google.com/document/d/12KoW5sqjk4MMMqptjHIF-YczdR4iEkE855kZAXIQFGk/edit?usp=sharing)
 
 ## SEMAT Input State
 
