@@ -10,21 +10,21 @@ tags: ["culture", "hackathon"]
 
 The very first [openessence.io](http://openessence.io) hackathon will take place during 27/28th June 2018 with the aim of creating a range of content for the openessence.io practice library. This will be a range of activities and techniques that are used when working with open source software and projects.
 
-The aim of this first hackathon is to neatly capture what we do as a series of activities and techniques, so that they can then be catalogued and reviewed as the first part of the openessence.io practice libary.
+The aim of this first hackathon is to neatly capture what we do as a series of activities and techniques, so that they can then be catalogued and reviewed as the first part of the [openessence.io](http://openessence.io) practice libary.
 
 ## When is it ?
 
-It will start at 10h00 British Summer Time (BST) on June 27th and run through to 18h00 BST on June 28th.
+It will start at 10h00 British Summer Time (BST) on June 27th and run through to 18h00 BST on June 28th and will be running throughout this time to cover non-EMEA timezones.
 
 ## How do I participate
 
-If you are a Red Hat employee and you are interested in participating in the hackathon then simply join the #openessence channel on rocket chat.  
+If you are a Red Hat employee and you are interested in participating in the hackathon then simply join the *#openessence channel* on [Rocket Chat](https://chat.consulting.redhat.com/channel/openessence).
 
 Interaction will also be via Bluejeans (for everybody) using the [http://www.bluejeans.com/8885362146](http://www.bluejeans.com/8885362146) channel.
 
 [openessence.io](http://openessence.io) content is written in markdown, so recommend you get a markdown editor of choice ([atom](https://atom.io/) as standalone or a chrome markdown editor, [for example](https://chrome.google.com/webstore/detail/markdown-editor/ekdcaddpmiodcipjfmffhhefijpdckaf))
 
-You'll need to look at [hackmd](http://hackmd.io) and create an account (to share your markdown files).  
+You can also write them directly on [hackmd](http://hackmd.io); create an account and then share the link to the created or uploaded document, either on bluejeans or on rocketchat.   
 
 ## What's the process ?
 
@@ -38,13 +38,13 @@ Some simple steps:
 
 ## How long, how much effort ?
 
-If you join for an hour or the whole day it doesn't matter, we are looking for people to provide the essence of what they do but writing up the activities and techniques they use.
+If you join for an hour or the whole day it doesn't matter, we are looking for people to provide the essence of what they do by writing up the activities and techniques they use.
 
 ## What happens with the materials ?
 
 There is some cataloguing and ordering to be done with the content and we're looking at different ways of doing this; this will be via standard lists, through [SEMAT Essence](http://semat.org) and potentially via other approaches like [Mobius Loops](http://www.mobiusloop.com/).
 
-## Qualifing for OECON18
+## Qualifying for OECON18
 
 There will be OECON18 in Autumn / Fall and lead contributors will qualify for places. To be track your contribution as a Red Hat employee you need to sign up to the [CoP Ninja programme](https://mojo.redhat.com/community/communities-at-red-hat/communities-of-practice-operations/projects/communities-of-practice-ninja-program). The actual [signup form is here](https://docs.google.com/forms/d/e/1FAIpQLSdWGcCks2zKKnVoZFQz3CieLQDc1lsSex_Knwh_-eyRm0ZQTg/viewform).
 
