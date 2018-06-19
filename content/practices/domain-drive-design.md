@@ -1,7 +1,7 @@
 ---
 title: "Domain Drive Design"
 date: 2018-06-07T12:39:01+01:00
-draft: false
+draft: true
 categories: ["Community"]
 tags: ["design","agile"]
 ---
