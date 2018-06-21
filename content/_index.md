@@ -1,11 +1,7 @@
 ---
-title: Home
+title: OpenEssence Home
 menu: main
 weight: -2
-cover:
-  image: /images/books.png
-  caption: Books
-  style: full
 ---
 
 ### Overview
@@ -13,6 +9,8 @@ cover:
 Welcome to the [OpenEssence](https://openessence.github.io/) Practice Library. Here, we look to provide information on the [Practices](/practices) that are used during our engagements.
 
 We have broken down the practices in to Community (added but not validated) and Portfollio (verified).  Check out the [Categories](/categories).  To further make searching the library easier, we have added relevant [Tags](/tags) to each practice.
+
+Please check out the [Aims and Objectives](/blog/aims-objectives/) for more details.
 
 ### Blogs
 We are also creating a number of [Blog](/blog) posts to give you information on how to contribute.
