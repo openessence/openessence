@@ -1,5 +1,5 @@
 ---
-title: "Business Stategy Workshop"
+title: "Business Strategy Workshop"
 date: 2018-06-27T10:39:01+01:00
 categories: ["Community"]
 tags: ["business", "strategy", "workshop"]
