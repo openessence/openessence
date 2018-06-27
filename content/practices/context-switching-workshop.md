@@ -1,5 +1,5 @@
 ---
-title: "Content Switching"
+title: "Context Switching"
 date: 2018-06-27T10:39:01+01:00
 categories: ["Community"]
 tags: ["workshop"]
@@ -7,7 +7,7 @@ draft: false
 author: "ChrisJ"
 ---
 
-## What is Content Switching?
+## What is Context Switching?
 
 Context Switching can be described as multi-tasking which is often seen as a good thing.  Unfortunately, we are not able to generate the same amount of output/value when we multi-task.
 
