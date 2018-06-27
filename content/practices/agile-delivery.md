@@ -2,6 +2,7 @@
 title: "Agile Delivery"
 date: 2018-06-27T11:18:08+01:00
 draft: false
+tags: ["agile" "delivery"]
 ---
 
 
@@ -106,4 +107,4 @@ $body$
 $link$
 
 ## Tags
-Agile Delivery Practice 
+Agile Delivery Practice
