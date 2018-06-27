@@ -1,6 +1,6 @@
 ---
 title: "Content Switching"
-date: 2018-06-27T11:28:58+0100
+date: 2018-06-27T10:39:01+01:00
 categories: ["Community"]
 tags: ["workshop"]
 draft: false
@@ -46,9 +46,9 @@ This workshop will demonstrate the adverse effects of context switching.
 ## Delivery
 Prepare a whiteboard similar to the image below:
 
-[Whiteboard](/images/context-switch.jpg)
+![Whiteboard](/images/context-switch.jpg)
 
-Get everybody to stand in a circle and describe the 'rules'.  You are going to go around the room in turn and everybody will say the next item in the sequence. The first 3 are simple mathematics (2, 5 and 7 times table) and the last two are alphebetical (A to Z then Z to A)  
+Get everybody to stand in a circle and describe the 'rules'.  You are going to go around the room in turn and everybody will say the next item in the sequence. The first 3 are simple mathematics (2, 5 and 7 times table) and the last two are alphabetical (A to Z then Z to A)  
 
 ## Process Phase
 Any time

@@ -1,9 +1,9 @@
 ---
 title: "Infrastructure Architecture Workshop"
-date: 2018-06-27T10:20:52+0100
+date: 2018-06-27T11:39:01+01:00
 categories: ["Community"]
 tags: ["workshop", "infrastructure"]
-draft: true
+draft: false
 author: "Nick Strugnell <nstrug@redhat.com>"
 ---
 
@@ -65,7 +65,7 @@ The activity flow is shown in the following diagram:
 The time required for the sub activities varies depending on the complexity of the project. Times below are for a typical Standard Operating Environment project:
 
 | Subactivity | Time |
-| -------- | -------- | -------- |
+| -------- | -------- |
 | Workshop Prep Call     | 1 hour     |
 | Requirements Workshops | 2 day |
 | Architecture Elaboration | 1 day |
