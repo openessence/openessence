@@ -106,4 +106,4 @@ $body$
 $link$
 
 ## Tags
-$title$
+Agile Delivery Practice 
