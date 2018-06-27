@@ -1,6 +1,6 @@
 ---
 title: "Business Stategy Workshop"
-date: 2018-06-27T10:10:36+0100
+date: 2018-06-27T10:39:01+01:00
 categories: ["Community"]
 tags: ["business", "strategy", "workshop"]
 draft: false
@@ -14,18 +14,20 @@ The Red Hat Strategy Engagement takes business leaders out of their day to day e
 The outputs from the workshops are:
 
 Day 1
-* Understanding of what a Journey Map is
-* Agreed topics to take into the Journey Mapping Workshop
-* Output document containing:
- - Customer Strategy
- - Business Priority Output
- - RTI Assessment document
+
+-  Understanding of what a Journey Map is
+-  Agreed topics to take into the Journey Mapping Workshop
+-  Output document containing:
+    - Customer Strategy
+    - Business Priority Output
+    - RTI Assessment document
 
 Day 2
-* A distilled version of the Journey Map Workbook
-* DRAFT Vision-Strategy-Execution-Measurements one-page explanation of the program
-* Team alignment on Top 3 MVP’s for acceleration as part of the program
-* Capture and document required process change and technology capabilities documented as input to the technical work stream
+
+-  A distilled version of the Journey Map Workbook
+-  DRAFT Vision-Strategy-Execution-Measurements one-page explanation of the program
+-  Team alignment on Top 3 MVP’s for acceleration as part of the program
+-  Capture and document required process change and technology capabilities documented as input to the technical work stream
 
 The output should be used by the account team to position and shape further Red Hat services and technology.
 
