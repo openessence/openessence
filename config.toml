@@ -5,3 +5,4 @@ theme = "beautifulhugo"
 [taxonomies]
    tag = "tags"
    category = "categories"
+   authors = "author"

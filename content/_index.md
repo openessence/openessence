@@ -12,6 +12,7 @@ We have broken down the practices in to Community (added but not validated) and 
 
 Please check out the [Aims and Objectives](/blog/aims-objectives/) for more details.
 
+
 ### Blogs
 We are also creating a number of [Blog](/blog) posts to give you information on how to contribute.
 
