@@ -3,6 +3,7 @@ title: "Prep Call"
 date: 2018-06-28T11:11:24+01:00
 draft: false
 tags: ["prep call", "discovery session"]
+author: "Malcolm Herbert"
 ---
 
 ## License
