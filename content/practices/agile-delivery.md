@@ -2,7 +2,9 @@
 title: "Agile Delivery"
 date: 2018-06-27T11:18:08+01:00
 draft: false
+category: "Portfolio"
 tags: ["agile" "delivery"]
+author: "Malcolm Herbert"
 ---
 
 
