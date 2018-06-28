@@ -4,7 +4,7 @@ date: 2018-06-27T11:39:01+01:00
 categories: ["Community"]
 tags: ["workshop", "infrastructure"]
 draft: false
-author: "Nick Strugnell <nstrug@redhat.com>"
+author: "Nick Strugnell"
 ---
 
 ## What is an Infrastructure Architecture Workshop?

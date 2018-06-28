@@ -4,6 +4,7 @@ date: 2018-06-07T12:39:01+01:00
 draft: false
 categories: ["Community"]
 tags: ["design","architecture","mapping", "workshop"]
+author: "ChrisJ"
 ---
 
 ## What is Design Thinking?
@@ -16,11 +17,11 @@ It is a positive, creative approach for the initial parts of solution developmen
 
 ## Related Practices
 
-It can be used as part of a [Discovery Session]([discovery.md) or as part of a wider development project.
+It can be used as part of a [Discovery Session](discovery.md) or as part of a wider development project.
 
 ## Who do you need?
 
-- relevant business and technical stakeholders.  You may want to run the [Stakeholder Mapping](stakeholder-mapping.md) activity beforehand.
+- relevant business and technical stakeholders.  You may want to run the [Stakeholder Mapping](stakeholder-mapping) activity beforehand.
 - these should include; business owners; lead architects (development and operations); developers and operations team members, IT management
 
 

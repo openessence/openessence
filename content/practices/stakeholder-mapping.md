@@ -1,7 +1,9 @@
 ---
 title: "Stakeholder Mapping"
 date: 2018-06-07T12:39:01+01:00
-draft: true
+draft: false
+categories: ["Community"]
+tags: ["stakeholder","mapping", "workshop"]
 ---
 
 ## What is Stakeholder Mapping?
@@ -43,5 +45,3 @@ Any time
 ## SEMAT Input State
 
 ## SEMAT Output State
-
-

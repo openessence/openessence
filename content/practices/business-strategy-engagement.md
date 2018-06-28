@@ -4,7 +4,7 @@ date: 2018-06-27T10:39:01+01:00
 categories: ["Community"]
 tags: ["business", "strategy", "workshop"]
 draft: false
-author: "Kerrie Laird <klaird@redhat.com>"
+author: "Kerrie Laird"
 ---
 
 ## What is a Business Strategy Engagement?

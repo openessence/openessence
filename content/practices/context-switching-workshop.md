@@ -20,7 +20,7 @@ Picture the scene: you are working on Project A but your manager comes over to y
 How do you demonstrate to your management team that this is a bad idea? Run this workshop with them!
 
 ## Why use  it?
-This workshop will demonstrate the adverse effects of context switching.
+This workshop will demonstrate the adverse effects of context switching by running two simple exercises and comparing the results.
 
 ## Related Practices
 
@@ -66,6 +66,8 @@ You can now see that all tasks were completed within about 4 minutes.
 For the second round, the rules change.  The facilitator will randomly change the task in hand.  For example:
 
 The First people will do the 2 x times table until they get to 8 then the facilitator will say "Now do A-Z".  They will go from A-Z until, say, "J" and the tasks will change to the 5 x table until they reach 30.  At this point, the facilitator will revert back to the A-Z and the team member will need to remember where they got to ("J") and carry on, J,K,L etc.
+
+Once the stopwatch reaches around the total time of the previous round, the facilitator will stop the exercise.
 
 Again, all of these will be timed and noted on the whiteboard.
 
