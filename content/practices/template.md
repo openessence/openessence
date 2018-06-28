@@ -4,7 +4,7 @@ date: 2018-06-28T10:39:01+01:00
 categories: ["community"]
 tags: ["tag1","tag2"]
 draft: false
-author: "A N Other" ## Please just use your name
+author: "ChrisJ" ## Please just use your name
 ---
 
 ## What is TEMPLATE?
