@@ -1,9 +1,10 @@
 ---
 title: "Engagement Client Preparation Doc"
 date: 2018-06-27T14:42:20+01:00
-catagory: "community"
+catagory: ["community"]
 draft: false
-tags: ["stakeholder mapping" "client prep document" "discovery workshops"]
+tags: ["stakeholder mapping", "client prep document", "discovery workshops"]
+author: ["Malcolm Herbert"]
 ---
 
 ----------
