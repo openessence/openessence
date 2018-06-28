@@ -24,14 +24,13 @@ A Maturity Model can be used to describe a whole host of technology based enviro
 
 For example, a Maturity model can be used to assess current System Management / Data Centre Management and is a useful tool to determine the current position of an organisation, especially in relation to Standard Operating Environment (SOE) and the related areas of Unix to Linux migrations or Continuous Delivery.
 
-Maturity Models can be also used for DevOps, Open Source, both of which have been developed by Red Hat Consulting.
+Maturity Models can be also used for DevOps, Open Source, of which there are a number, including the ones linked to below that were developed as quick assessment tool by Red Hat Consulting.  It has also used a number of Maturity Models as part of the early engagement with customers as is a way of explaining how an organisation compares with other organisations (in an anonymous way) and with what is needed for future development. Any model usually takes into account people, process and technology and usually needs to be assessed in such a way that it is not overly demanding in terms of information collection or seen to be a negative exercise highlighting problems in an organisation.
 
-
-Red Hat Consulting has used a number of Maturity Models as part of the early engagement with customers as is a way of explaining how an organisation compares with other organisations (in an anonymous way) and with what is needed for future development. Any model usually takes into account people, process and technology and usually needs to be assessed in such a way that it is not overly demanding in terms of information collection or seen to be a negative exercise highlighting problems in an organisation.
+As part of assessing an orgnaisations readiness for cloud native application development, Red Hat also produced [Ready to Innovate](http://www.ready-to-innovate.com) as an online assessment tool, which assessing an organisations maturity and capability in 5 keys areas.  
 
 ## Why use  it?
 
-Maturity Models can be used as part of the initial discovery phase of a project.
+Maturity Models can be used as part of the initial discovery phase of a project and whilst they can be seen as negative, especially when organisations might not be mature, one of the skills of the assessor is to focus on the areas for development and where this might start.
 
 ## Related Practices
 
@@ -39,7 +38,7 @@ Maturity Models can be used as part of the initial discovery phase of a project.
 
 ## Who do you need?
 
-- the model, as an application or tool of some form.
+- the model, as an application or tool of some form. There are a number of examples listed below.
 
 ## Suggested Time
 
