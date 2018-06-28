@@ -3,6 +3,7 @@ title: "Maturity Model"
 date: 2018-06-27T15:56:47+01:00
 draft: false
 tags: ["maturity model","community", "RTI", "DevOps Maturity Model"]
+categories: ["community"]
 author: "Malcolm Herbert"
 ---
 
