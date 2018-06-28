@@ -6,10 +6,6 @@ tags: ["prep call", "discovery session"]
 author: "Malcolm Herbert"
 ---
 
-## License
-Creative Commons Attribution-ShareAlike 4.0
-https://creativecommons.org/licenses/by-sa/4.0/
-![CC BY SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
 
 ----------
@@ -55,9 +51,10 @@ You need all potential parties at the meeting:
 ## Process Phase
 Any time
 
-##Links
-[Prepation Call, workshop template](https://github.com/SEMAT-Exists-Org/content-activities/blob/master/preparation-call-guide-template-01.pdf)
-##Techniques
+## Links
+[Prepation Call Workshop Template](https://github.com/SEMAT-Exists-Org/content-activities/blob/master/preparation-call-guide-template-01.pdf)
+
+## Techniques
 
 ## Activity Spaces Influenced
 Activities can only influence one Activity Space
@@ -101,3 +98,8 @@ Software System|0|6
 Work|0|6
 Way of Working|1|6
 Team|0|5
+
+## License
+Creative Commons Attribution-ShareAlike 4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+![CC BY SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
