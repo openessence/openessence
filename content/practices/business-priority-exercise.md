@@ -1,6 +1,6 @@
 ---
 title: "Business Priority Exercise"
-date: 2018-06-27T15:06:01+01:00
+date: 2018-06-28T12:06:01+01:00
 categories: ["community"]
 tags: ["business", "strategy",]
 draft: false
