@@ -19,39 +19,44 @@ The Open Decision Framework contains the collective wisdom of an organisations s
 
 ## Why use  it?
 
+It fits well with an organisation using, developing and contributing to open source software. Required part of developing an open organisation.
+
 
 ## Related Practices
 
 
 ## Who do you need?
 
-- Insert Details
+- a range of stakeholders and supporters
+- participation from a range
 
 
 ## Suggested Time
 
-- 1 hour
+- ongoing
 
 
 ## Difficulty
-- Facilitator: Easy
+- Facilitator: Medium
 - Participants: Easy
 
 
 ## Facilitation Materials Needed
 
-- Whiteboard which will hold sticky notes.
-- Whiteboard markers
-- Stickies (preferably a wide variety)
+* Open Decision Framework (ODF), this is a publically available framework released by Red Hat in June 2016. This is available on [github](https://github.com/red-hat-people-team/open-decision-framework).
+
 
 ## Process Phase
-Any time
+
+At any time during the development of an organisation.
 
 ## Delivery
 
 ## External References
 
-[Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework)
+* [Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework)
+* [What is the Open Decision Framework](https://opensource.com/open-organization/resources/open-decision-framework)
+* [Markdown / plain text version of the ODF](https://github.com/red-hat-people-team/open-decision-framework/blob/master/ODF-community.md)
 
 ## SEMAT Activity Spaces
 
