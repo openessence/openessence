@@ -9,7 +9,7 @@ author: "Nick Strugnell"
 
 ## What is an Infrastructure Architecture Workshop?
 
-This is an activity which is designed to elicit requirements and propose architecture for an infrastructure-type engagement. The outputs from the workshop are:
+This is an activity which is designed to elicit requirements and propose an architecture for an infrastructure-type engagement. The outputs from the workshop are:
 
 * A list of requirements
 * A High Level Design document

@@ -48,10 +48,10 @@ During the early parts of the project when the wider aims and objectives are bei
 
 ## External References
 
-The classic (design thinking shopping trolley video)[https://www.youtube.com/watch?v=W6EgoiPxNDs] is a good place to start.
+The classic [Design thinking shopping trolley video](https://www.youtube.com/watch?v=W6EgoiPxNDs) is a good place to start.
 
 There is some excellent Stanford University Crash Course material to follow and learn how to run a design thinking session
-(Virtual design thinking course)[https://dschool.stanford.edu/resources/a-virtual-crash-course-in-design-thinking]
+[Virtual design thinking course](https://dschool.stanford.edu/resources/a-virtual-crash-course-in-design-thinking)
 
 
 ## SEMAT Input State

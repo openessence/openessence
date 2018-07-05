@@ -1,21 +1,12 @@
 ---
 title: "Activity Template"
-date: 2018-06-27T10:23:32+01:00
-draft: false
+date: 2018-06-27T10:39:01+01:00
+categories: ["Community"]
+tags: ["tag1", "tag2", "tag3"]
+draft: true
+author: "A N Other"
 ---
-# ACTIVITY
-## Name
-$title$
-## Type
-Activity
-## Author
-$author$ $date$
-## License
-Creative Commons Attribution-ShareAlike 4.0
-https://creativecommons.org/licenses/by-sa/4.0/
-![CC BY SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
-----------
 
 ## Activity Spaces Influenced
 Activities can only influence one activity space

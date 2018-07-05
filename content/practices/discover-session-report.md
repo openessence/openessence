@@ -1,5 +1,5 @@
 ---
-title: "Discover Session Report"
+title: "Discovery Session Report"
 date: 2018-06-28T15:51:15+01:00
 draft: false
 categories: ["community"]
@@ -7,20 +7,16 @@ tags: ["discovery session report", "discovery session", "report"]
 author: "Malcolm Herbert" ## Please just use your name
 ---
 
-## License
-Creative Commons Attribution-ShareAlike 4.0
-https://creativecommons.org/licenses/by-sa/4.0/
-![CC BY SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
 ## What is a Discovery Session Report ?
 
-Short report template for Discovery Sessions. The problem with some sessions is that the documentation takes too long to produce and can be too extensive. Using the templates ensures a succinct, easy to read report with the key findings.
+Short report template for Discovery Sessions. The problem with some discovery sessions is that the documentation takes too long to produce and can be too extensive. Using templates ensures a succinct, easy to read report with the key findings.
 
-A Discovery Session usually last for 1 day or less and the report should be written with this in mind; should be short, concise and relevant to the workshop.
+A Discovery Session usually last for 1 day or less and the report should be written with this in mind; it should be short, concise and relevant to the workshop.
 
 ## Why use  it?
 
-Use the template for the report to avoid spending too much time and effort pursing a report that is bespoke and too long.
+Use the template for the report to avoid spending too much time and effort creating a report that is bespoke and too long.
 
 
 ## Related Practices
@@ -34,9 +30,9 @@ The report template.
 There are a number of templates available, provided in the link below. The key criteria for the report are:
 
 * 12 to 15 pages (A4) maximum.
-* ensure all the currently recognised Stakeholders are included in the report and in the distribution list. This should include both internal and client representatives.
-* that the Opportunities be clearly defined in the report
-* that it is delivered within 5 working days of the Discovery Session being run.
+* Ensure all the currently recognised Stakeholders are included in the report and in the distribution list. This should include both internal and client representatives.
+* The Opportunities be clearly defined in the report
+* It is delivered within 5 working days of the Discovery Session being run.
 
 ## Suggested Time
 

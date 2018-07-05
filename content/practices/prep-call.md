@@ -13,26 +13,28 @@ author: "Malcolm Herbert"
 
 Prior to any onsite or face to face meeting, a preparation call looks to provide an initial introduction to the project and identify an opportunity and an initial view of the stakeholders.  This should be with all parties that are to be involved with the event, internal and customer / external.
 
-1. Run 30-60 minute conference call with customer, going through the Workshop Preparation Guide. A standard template prep guide  is provided in the links below.
+1. Run 30-60 minute conference call with customer, going through the [Workshop Preparation Guide](https://github.com/SEMAT-Exists-Org/content-activities/blob/master/preparation-call-guide-template-01.pdf).
 2. To confirm agenda, running order, times for Workshop
 3. Identify and record Customer representatives (Stakeholders)
 4. Other Logistics for Workshop (venue, time, access etc)
 
 ## Why use  it?
-Initial customer contact with Services organisation to set boundaries and agenda for subsequent workshop itself. Primary aims to:
-* ensure identification and attendance of Stakeholders
-* define agenda, including tailored items
-* desirable outcome of workshop
+Initial customer contact with Services organisation to set boundaries and agenda for subsequent workshop itself. Primary aims are to:
+
+- Ensure identification and attendance of Stakeholders
+- Define agenda, including tailored items
+- Desirable outcome of workshop
 
 ## Related Practices
 
-Discovery session
+[Discovery session](/practices/discovery-session)
 
 ## Who do you need?
 
 You need all potential parties at the meeting:
-* the Facilitator for the meeting should ensure the call takes place
-* if not present on the call, someone else should be responsible for their attendance at the planned meeting
+
+- The Facilitator for the meeting should ensure the call takes place
+- If not present on the call, someone else should be responsible for their attendance at the planned meeting
 
 ## Suggested Time
 
@@ -98,8 +100,3 @@ Software System|0|6
 Work|0|6
 Way of Working|1|6
 Team|0|5
-
-## License
-Creative Commons Attribution-ShareAlike 4.0
-https://creativecommons.org/licenses/by-sa/4.0/
-![CC BY SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)

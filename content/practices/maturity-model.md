@@ -7,28 +7,21 @@ categories: ["community"]
 author: "Malcolm Herbert"
 ---
 
-## Author
-Malcolm Herbert, Red Hat 2016
-## License
-Creative Commons Attribution-ShareAlike 4.0
-https://creativecommons.org/licenses/by-sa/4.0/
-![CC BY SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
-
-----------
 
 
 ## What is a Maturity Model ?
 
 A Maturity Model can be used to describe a whole host of technology based environments. Rather than focusing on a specific software product they will look at
-- technology
-- process
-- people
+
+- Technology
+- Process
+- People
 
 For example, a Maturity model can be used to assess current System Management / Data Centre Management and is a useful tool to determine the current position of an organisation, especially in relation to Standard Operating Environment (SOE) and the related areas of Unix to Linux migrations or Continuous Delivery.
 
 Maturity Models can be also used for DevOps, Open Source, of which there are a number, including the ones linked to below that were developed as quick assessment tool by Red Hat Consulting.  It has also used a number of Maturity Models as part of the early engagement with customers as is a way of explaining how an organisation compares with other organisations (in an anonymous way) and with what is needed for future development. Any model usually takes into account people, process and technology and usually needs to be assessed in such a way that it is not overly demanding in terms of information collection or seen to be a negative exercise highlighting problems in an organisation.
 
-As part of assessing an orgnaisations readiness for cloud native application development, Red Hat also produced [Ready to Innovate](http://www.ready-to-innovate.com) as an online assessment tool, which assessing an organisations maturity and capability in 5 keys areas.  
+As part of assessing an organisations readiness for cloud native application development, Red Hat also produced [Ready to Innovate](http://www.ready-to-innovate.com) as an online assessment tool, which assessing an organisations maturity and capability in 5 keys areas.  A short [Video](https://www.youtube.com/watch?v=zrPnt7fWZLg) is also available.
 
 ## Why use  it?
 
@@ -40,7 +33,7 @@ Maturity Models can be used as part of the initial discovery phase of a project 
 
 ## Who do you need?
 
-- the model, as an application or tool of some form. There are a number of examples listed below.
+- The model, as an application or tool of some form. There are a number of examples listed below.
 
 ## Suggested Time
 
@@ -59,22 +52,21 @@ Maturity Models can be used as part of the initial discovery phase of a project 
 
 ## Process Phase
 Any time
-## Description
-
-
-Red Hat Consulting has used a number of Maturity Models as part of the early engagement with customers as is a way of explaining how an organisation compares with other organisations (in an anonymous way) and with what is needed for future development. Any model usually takes into account people, process and technology and usually needs to be assessed in such a way that it is not overly demanding in terms of information collection or seen to be a negative exercise highlighting problems in an organisation.
 
 ## Practices
 [Discovery Session](http://openessence.io/practices/discovery-session.md)
 
 ## External Links
 [The QualPSo Open Source Maturity Model](https://en.wikipedia.org/wiki/OpenSource_Maturity_Model)
+
 [OpenSource Maturity Models discussion](https://www.cigital.com/blog/open-source-and-software-maturity-models/)
 
 [Continuous Integration Maturity Model](http://www.infoq.com/articles/Continuous-Delivery-Maturity-Model)
+
 [Thoughtworks Continuous Integration Maturity Model](http://info.thoughtworks.com/rs/thoughtworks2/images/continuous_delivery_a_maturity_assessment_modelfinal.pdf)
 
 [Basic DevOps Maturity Model](https://docs.google.com/spreadsheets/d/1FpcoETbEXlrrzoRZFn9A8EjWGHLInJ3C6exn_uwjLKU/edit?usp=sharing)
+
 [Basic Open Source Maturity Model](https://docs.google.com/spreadsheets/d/14jcoh9o1HoYKzFpqvrgVtBCEjQv1-OoysOuR66erqFU/edit?usp=sharing)
 
 # Activity Spaces Influenced

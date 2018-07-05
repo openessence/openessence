@@ -11,21 +11,21 @@ author: ["Malcolm Herbert"]
 
 ## What is a Client Preparation Document
 
-It's a document that maps out the prerequisites for a Discovery Session or other presales workshop. It ensures that all the key elements needed are actually in place prior to the
+It's a document that maps out the prerequisites for a [Discovery Session](/practices/discovery-session) or other presales [workshop](/tags/workshop). It ensures that all the key elements needed are actually in place prior to the
 meeting taking place.  
 
-The Document should be sourced around a particular theme, then edited to reflect customer details and passed on to the customer. It should outline a framework agenda for discussion and finalisation in the Pre-Call as well as potential outcomes from the one day Discovery Session.
+The Document should be sourced around a particular theme, then edited to reflect customer details and passed on to the customer. It should outline a framework agenda for discussion and finalisation in the [Prep-Call](/practices/prep-call) as well as potential outcomes from the one day Discovery Session.
 The document should be sent in pdf format and used for follow on finalisation of an on-site Discovery Session.
-See following link for an example SOE Client prep doc.
-When creating additional solution themes a client prep doc should be a mandatory document and created to introduce the solutions Discovery Session practice.    
+See link below for an example SOE Client prep doc.
+When creating additional solution themes, a client prep doc should be a mandatory document and created to introduce the solutions Discovery Session practice.    
 
 ## Why use  it?
 
-To ensure everything needed proir to a Discovery Session or other similar activity is in place. It's an aide memoir and a template for running an engagement.
+To ensure everything needed prior to a Discovery Session or other similar activity is in place. It's an aide memoir and a template for running an engagement.
 
 ## Related Practices
 
-Stakeholder Mapping
+[Stakeholder Mapping](/practices/stakeholder-mapping)
 
 
 ## Who do you need?
@@ -52,13 +52,8 @@ Any time
 ## External References
 
 ## Links
-https://github.com/SEMAT-Exists-Org/content-activities/blob/master/preparation-call-guide-template-01.pdf
+[Preparation Call Guide Template](https://github.com/SEMAT-Exists-Org/content-activities/blob/master/preparation-call-guide-template-01.pdf)
 
-# ACTIVITY
-## Name
-Engagement Client Preparation Doc
-## Type
-Activity
 
 ## Activity Spaces Influenced
 Activities can only influence one activity space
@@ -106,7 +101,3 @@ Team|1|4
 
 ## Practices
 Discovery Session
-
-
-## Tags
-Discovery Session, Client Preparation guide

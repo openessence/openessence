@@ -20,7 +20,7 @@ Day 1
 -  Output document containing:
     - Customer Strategy
     - Business Priority Output
-    - RTI Assessment document
+    - [RTI](http://ready-to-innovate.com/) Assessment document
 
 Day 2
 

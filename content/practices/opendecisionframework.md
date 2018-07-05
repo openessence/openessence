@@ -27,13 +27,12 @@ It fits well with an organisation using, developing and contributing to open sou
 
 ## Who do you need?
 
-- a range of stakeholders and supporters
-- participation from a range
+- Participation from a range of stakeholders and supporters
 
 
 ## Suggested Time
 
-- ongoing
+- Ongoing
 
 
 ## Difficulty
