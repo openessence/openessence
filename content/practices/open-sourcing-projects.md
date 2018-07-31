@@ -1,7 +1,10 @@
 ---
 title: "Open Sourcing Projects"
 date: 2018-07-31T08:28:55+01:00
-draft: true
+draft: false
+author: "Malcolm Herbert, Dave Neary"
+categories: ["Community"]
+tags: ["checklist","open source"]
 ---
 
 ## What is the Open Sourcing Checklist?
