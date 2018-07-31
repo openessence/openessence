@@ -23,29 +23,29 @@ Ongoing.
 ## The Checklist
 
 ### Phase One: Discovery
-Meet with initial key stakeholders from BU and engineering to determine what success looks like for the community post-launch, vet with other stakeholders including executive team
-Ensure plan for project success supports success of subscription/product offering
-Ensure that the project is viable as an open source project from community perspective if a community project.
+* Meet with initial key stakeholders from BU and engineering to determine what success looks like for the community post-launch, vet with other stakeholders including executive team
+* Ensure plan for project success supports success of subscription/product offering
+* Ensure that the project is viable as an open source project from community perspective if a community project.
 or
-Ensure the project will be carried by Red Hat if the projects sole goal is around Red Hat objectives (For example RDO to create OpenStack brand association with Red Hat)
-Iterate through 2-3 phases of defining success to ensure buy-in and robust understanding of problem space
-Understand any project specific needs for community launch, which might include:
-Open sourcing of code base
-Source code licensing
-Project naming - legal, Brand and Marketing constraints
-Product/project positioning
-Content architecture - SRT, InfoSec, IT, design needs
-Community governance model
-Understanding target audience
-Decisions on interaction model (mailing lists, forums, bug trackers, etc)
-Decisions on how to enable people to move from user to contributor
-Determine key stakeholders from each group at Red Hat
-Individuals/teams who will need to provide approval on aspects of the launch (e.g. Legal must bless our terms of service)
-Individuals/teams who will contribute to launch in an interlock fashion (e.g. Bob Engineer and Jane Developer will create packages and repos for source code distribution)
-Time line issues
-What are the driving factors for success for the launch (will the launch happen at an event?)
-How long will it take to name a project?
-How long do we spend building trust to join a new community?
+* Ensure the project will be carried by Red Hat if the projects sole goal is around Red Hat objectives (For example RDO to create OpenStack brand association with Red Hat)
+* Iterate through 2-3 phases of defining success to ensure buy-in and robust understanding of problem space
+* Understand any project specific needs for community launch, which might include:
+* Open sourcing of code base
+* Source code licensing
+* Project naming - legal, Brand and Marketing constraints
+* Product/project positioning
+* Content architecture - SRT, InfoSec, IT, design needs
+* Community governance model
+* Understanding target audience
+* Decisions on interaction model (mailing lists, forums, bug trackers, etc)
+* Decisions on how to enable people to move from user to contributor
+* Determine key stakeholders from each group at Red Hat
+* Individuals/teams who will need to provide approval on aspects of the launch (e.g. Legal must bless our terms of service)
+* Individuals/teams who will contribute to launch in an interlock fashion (e.g. Bob Engineer and Jane Developer will create packages and repos for source code distribution)
+* Time line issues
+* What are the driving factors for success for the launch (will the launch happen at an event?)
+* How long will it take to name a project?
+* How long do we spend building trust to join a new community?
 
 
 ### Phase Two: Pre-Creation of Execution Plan
